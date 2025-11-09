@@ -26,8 +26,8 @@ Cross-platform **React Native (Expo)** mobile app that lets users browse restaur
 | ![Auth](./assets/readme/authentication.png) | ![List](./assets/readme/list.png) | ![Details](./assets/readme/details.png) |
 
 | Favourites | Checkout | Settings |
-|------------|---------|----------|
-| ![Favourites](./assets/readme/favourites.png) | ![Checkout](./assets/readme/checkout.png) | ![Settings](./assets/readme/settings.png)) |
+|------------|----------|----------|
+| ![Favourites](./assets/readme/favourites.png) | ![Checkout](./assets/readme/checkout.png) | ![Settings](./assets/readme/settings.png) |
 
 | Camera Avatar | Map |
 |---------------|-----|
@@ -37,13 +37,21 @@ Cross-platform **React Native (Expo)** mobile app that lets users browse restaur
 
 ## 🚀 Quick Start
 
-```bash
-# 1) install deps
-yarn
+# Clone this repo and install dependencies with Yarn:
 
-# 2) start the dev server (Metro)
+```bash
+# 1) clone the from my reop
+git clone https://github.com/AutumnFawcett/Meals-To-Go.git
+
+# 2) Open folder
+cd Meals-To-Go
+
+# 3 )Install deps
+yarn install
+
+# 4) start the dev server (Metro)
 yarn start
 
-# 3) run on simulator
+# 5) run on simulator
 #   - press "i" for iOS
 #   - press "a" for Android
