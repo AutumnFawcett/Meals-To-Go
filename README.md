@@ -21,29 +21,63 @@ Cross-platform **React Native (Expo)** mobile app that lets users browse restaur
 
 ## 📸 Screenshots
 
-| Home | List | Details |
+| Auth | List | Details |
 |------|------|---------|
-| ![](assets/readme/home.png) | ![](assets/readme/list.png) | ![](assets/readme/details.png) |
+| ![Auth](Meals-To-Go/assets/readme/authentication.png) | ![List](Meals-To-Go/assets/readme/list.png) | ![Details](Meals-To-Go/assets/readme/details.png) |
 
 | Favourites | Checkout | Settings |
-|------------|---------|----------|
-| ![](assets/readme/favourites.png) | ![](assets/readme/checkout.png) | ![](assets/readme/settings.png) |
+|------------|----------|----------|
+| ![Favourites](Meals-To-Go/assets/readme/favourites.png) | ![Checkout](Meals-To-Go/assets/readme/checkout.png) | ![Settings](Meals-To-Go/assets/readme/settings.png) |
 
-| Camera Avatar |
-|---------------|
-| ![](assets/readme/camera.png) |
+| Camera Avatar | Map |
+|---------------|-----|
+| ![Camera](Meals-To-Go/assets/readme/camera.png) | ![Map](Meals-To-Go/assets/readme/map.png) |
 
 ---
 
 ## 🚀 Quick Start
 
-```bash
-# 1) install deps
-yarn
+### Clone this repo and install dependencies with Yarn:
 
-# 2) start the dev server (Metro)
+```bash
+# 1) clone the from my repo
+git clone https://github.com/AutumnFawcett/Meals-To-Go.git
+
+# 2) Open folder
+cd Meals-To-Go
+
+# 3 )Install deps
+yarn install
+
+# 4) start the dev server (Metro)
 yarn start
 
-# 3) run on simulator
+# 5) run on simulator
 #   - press "i" for iOS
 #   - press "a" for Android
+
+## 🧑‍🎓 Developer
+
+**Autumn Fawcett**  
+📍 Canada  
+💼 [Mrs. Roboto Labs](https://github.com/AutumnFawcett)  
+🎓 Certified React Native Developer — [Zero To Mastery Academy]([https://academy.zerotomastery.io/a/aff_xzw29mh1/external?affcode=441520_hpzbv2qd])  
+
+> This app was built and extended as part of my **Zero To Mastery React Native Development Certification**, demonstrating mastery of:
+> - Cross-platform mobile app development using React Native and Expo  
+> - Firebase Authentication and Functions integration  
+> - State management via Context API  
+> - Component-based architecture and reusable design systems  
+> - Real-device features (Camera, AsyncStorage, Maps)
+
+📜 **Certificate:**  
+[View Certification →](Meals-To-Go/assets/readme/ZTM_certificate.pdf)
+
+
+## 🔮 Future Improvements
+
+- Integrate live Google Places API (replace mocks)
+- Add real payment processing with Stripe via Firebase Functions
+- Connect Map screen with real geolocation markers
+- Implement profile persistence via Firebase Firestore
+- Improve camera avatar to upload profile images to Firebase Storage
