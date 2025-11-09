@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Meals-To-Go/assets/readme/banner.png" width="90%" alt="Meals To Go banner" />
 </p>
----
+
 # Meals-To-Go 🍔📱
 
 Cross-platform **React Native (Expo)** mobile app that lets users browse restaurants, view details, save favourites, and check out sample items with a mock payments flow. Built as part of my **Zero To Mastery** React Native development certification and extended with modern tooling, clean UI, and real device features (camera avatar, persistent favourites, etc.).
