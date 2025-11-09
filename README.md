@@ -37,7 +37,7 @@ Cross-platform **React Native (Expo)** mobile app that lets users browse restaur
 
 ## 🚀 Quick Start
 
-# Clone this repo and install dependencies with Yarn:
+### Clone this repo and install dependencies with Yarn:
 
 ```bash
 # 1) clone the from my reop
