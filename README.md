@@ -21,9 +21,9 @@ Cross-platform **React Native (Expo)** mobile app that lets users browse restaur
 
 ## 📸 Screenshots
 
-| Home | List | Details |
+| Auth | List | Details |
 |------|------|---------|
-| ![](assets/readme/home.png) | ![](assets/readme/list.png) | ![](assets/readme/details.png) |
+| ![](./assets/readme/authentication.png) | ![](./assets/readme/list.png) | ![](./assets/readme/details.png) |
 
 | Favourites | Checkout | Settings |
 |------------|---------|----------|
