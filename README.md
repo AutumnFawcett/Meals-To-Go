@@ -40,7 +40,7 @@ Cross-platform **React Native (Expo)** mobile app that lets users browse restaur
 ### Clone this repo and install dependencies with Yarn:
 
 ```bash
-# 1) clone the from my reop
+# 1) clone the from my repo
 git clone https://github.com/AutumnFawcett/Meals-To-Go.git
 
 # 2) Open folder
