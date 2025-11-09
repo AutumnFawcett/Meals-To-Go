@@ -55,3 +55,29 @@ yarn start
 # 5) run on simulator
 #   - press "i" for iOS
 #   - press "a" for Android
+
+## 🧑‍🎓 Developer
+
+**Autumn Fawcett**  
+📍 Canada  
+💼 [Mrs. Roboto Labs](https://github.com/AutumnFawcett)  
+🎓 Certified React Native Developer — [Zero To Mastery Academy]([https://academy.zerotomastery.io/a/aff_xzw29mh1/external?affcode=441520_hpzbv2qd])  
+
+> This app was built and extended as part of my **Zero To Mastery React Native Development Certification**, demonstrating mastery of:
+> - Cross-platform mobile app development using React Native and Expo  
+> - Firebase Authentication and Functions integration  
+> - State management via Context API  
+> - Component-based architecture and reusable design systems  
+> - Real-device features (Camera, AsyncStorage, Maps)
+
+📜 **Certificate:**  
+[View Certification →](Meals-To-Go/assets/readme/ZTM_certificate.pdf)
+
+
+## 🔮 Future Improvements
+
+- Integrate live Google Places API (replace mocks)
+- Add real payment processing with Stripe via Firebase Functions
+- Connect Map screen with real geolocation markers
+- Implement profile persistence via Firebase Firestore
+- Improve camera avatar to upload profile images to Firebase Storage
