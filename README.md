@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Meals-To-Go/assets/readme/banner.png" width="90%" alt="Meals To Go banner" />
+</p>
+---
 # Meals-To-Go 🍔📱
 
 Cross-platform **React Native (Expo)** mobile app that lets users browse restaurants, view details, save favourites, and check out sample items with a mock payments flow. Built as part of my **Zero To Mastery** React Native development certification and extended with modern tooling, clean UI, and real device features (camera avatar, persistent favourites, etc.).
@@ -35,27 +39,6 @@ Cross-platform **React Native (Expo)** mobile app that lets users browse restaur
 
 ---
 
-## 🚀 Quick Start
-
-### Clone this repo and install dependencies with Yarn:
-
-```bash
-# 1) clone the from my repo
-git clone https://github.com/AutumnFawcett/Meals-To-Go.git
-
-# 2) Open folder
-cd Meals-To-Go
-
-# 3 )Install deps
-yarn install
-
-# 4) start the dev server (Metro)
-yarn start
-
-# 5) run on simulator
-#   - press "i" for iOS
-#   - press "a" for Android
-
 ## 🧑‍🎓 Developer
 
 **Autumn Fawcett**  
@@ -81,3 +64,26 @@ yarn start
 - Connect Map screen with real geolocation markers
 - Implement profile persistence via Firebase Firestore
 - Improve camera avatar to upload profile images to Firebase Storage
+
+---
+
+## 🚀 Quick Start
+
+### Clone this repo and install dependencies with Yarn:
+
+```bash
+# 1) clone the from my repo
+git clone https://github.com/AutumnFawcett/Meals-To-Go.git
+
+# 2) Open folder
+cd Meals-To-Go
+
+# 3 )Install deps
+yarn install
+
+# 4) start the dev server (Metro)
+yarn start
+
+# 5) run on simulator
+#   - press "i" for iOS
+#   - press "a" for Android
