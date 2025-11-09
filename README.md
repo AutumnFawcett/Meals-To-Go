@@ -23,15 +23,15 @@ Cross-platform **React Native (Expo)** mobile app that lets users browse restaur
 
 | Auth | List | Details |
 |------|------|---------|
-| ![](./assets/readme/authentication.png) | ![](./assets/readme/list.png) | ![](./assets/readme/details.png) |
+| ![Auth](./assets/readme/authentication.png) | ![List](./assets/readme/list.png) | ![Details](./assets/readme/details.png) |
 
 | Favourites | Checkout | Settings |
 |------------|---------|----------|
-| ![](assets/readme/favourites.png) | ![](assets/readme/checkout.png) | ![](assets/readme/settings.png) |
+| ![Favourites](./assets/readme/favourites.png) | ![Checkout](./assets/readme/checkout.png) | ![Settings](./assets/readme/settings.png)) |
 
-| Camera Avatar |
-|---------------|
-| ![](assets/readme/camera.png) |
+| Camera Avatar | Map |
+|---------------|-----|
+| ![Camera](./assets/readme/camera.png) | ![Map](./assets/readme/map.png) |
 
 ---
 
